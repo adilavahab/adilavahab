@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/adilavahab/adilavahab/main/name.svg" alt="Adila Vahab" />
+</h1>
 
-<!--
-**adilavahab/adilavahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! 👋
+I'm Adila, an Information Technology student from Cochin University of Science and Technology.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 JavaScript,Java, PHP, C
+- ⚙️ React
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL
++  a lot more :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
